@@ -243,7 +243,7 @@ span{
 /*mobiles*/
 @media screen and (max-width: 480px){
 	.active{
-		background-color: #136a9b;
+		background-color: #136A9B;
 	}
 	p{
 		font-size: 15px;
