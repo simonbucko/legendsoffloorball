@@ -1,1 +1,0 @@
-# simon.bucko.github.io
