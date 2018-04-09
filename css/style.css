@@ -160,6 +160,7 @@ header.sticky{
 	position: -webkit-sticky;
     position: sticky;
     top: 0;
+	box-shadow: 4px 4px 8px #000329;
 }
 
 header nav ul{
@@ -217,7 +218,7 @@ h1,h2{
 }
 p{
 	width: 80%;
-	margin: 15px auto;
+	margin: 0 auto;
 	text-align: justify;
 	font-size: 16px;
 	line-height: 16px;
@@ -225,7 +226,8 @@ p{
 img{
 	display: block;
 	width: 50%;
-	margin: 0 auto 15px;
+	margin: 0 auto;
+	padding: 10px 0;
 	height: auto;
 
 }
@@ -237,6 +239,16 @@ span{
 	display: block;
 	text-align: center;
 	padding: 15px 0;
+}
+.main_contain{
+	width: 75%;
+	margin: 20px auto;
+	background-color: #001854;
+	color: #FFE500;
+	border-radius: 5px;
+	box-shadow: 5px 6px 8px #000329;
+
+
 }
 /*end of obsah*/
 
