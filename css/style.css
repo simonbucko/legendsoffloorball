@@ -254,6 +254,12 @@ span{
 
 /*mobiles*/
 @media screen and (max-width: 480px){
+	.main_contain{
+		width: 87%;
+	}
+	header.sticky{
+		box-shadow: none;
+	}
 	.active{
 		background-color: #136A9B;
 	}
