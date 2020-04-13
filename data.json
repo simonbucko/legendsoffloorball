@@ -1,18 +1,18 @@
 [
     {
-        meno: "Jozko",
-        priezvisko: "Dubak"
+        "meno": "Jozko",
+        "priezvisko": "Dubak"
     },
     {
-        meno: "Janko",
-        priezvisko: "Dubak"
+        "meno": "Janko",
+        "priezvisko": "Dubak"
     },
     {
-        meno: "Adam",
-        priezvisko: "Hornak"
+        "meno": "Adam",
+        "priezvisko": "Hornak"
     },
     {
-        meno: "Emil",
-        priezvisko: "Dubici"
+        "meno": "Emil",
+        "priezvisko": "Dubici"
     }
 ]
